@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551181460734",
+    "project_id": "fir-mahasiswa-24bab",
+    "storage_bucket": "fir-mahasiswa-24bab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551181460734:android:643ccfc69ff543266171af",
+        "android_client_info": {
+          "package_name": "com.firebasemahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIRXq6lFpCqGwZh6b6aPryEGgOUbdtB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
